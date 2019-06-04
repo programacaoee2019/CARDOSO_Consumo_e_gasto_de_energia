@@ -1,0 +1,1 @@
+# CARDOSO_Consumo_e_gasto_de_energia
