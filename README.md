@@ -11,3 +11,11 @@ Através do fornecimento de alguns dados pelo cliente (como número de eletrodom
 # Motivação:
 
 Desenvolver a conscientização do cliente por suas contas e apresentar a ele uma forma de economizar, sendo mais sustentável. Podendo popularizar novas formas de obter energia, sendo estas formas melhores ao meio-ambiente.
+
+# Método:
+
+Para o desenvolvimento do Projeto, o LabView será usado por conta de sua facilidade em apresentação e introdução de entradas, para que o Cliente sinta-se mais confortável em usar o programa.
+
+
+![front panel projeto vf](https://user-images.githubusercontent.com/48965603/59398407-92c3d900-8d66-11e9-8a5a-5458620f1acd.png)
+Front Panel inicial (PODE SER ALTERADO)
