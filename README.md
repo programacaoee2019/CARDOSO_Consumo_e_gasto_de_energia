@@ -16,6 +16,8 @@ Desenvolver a conscientização do cliente por suas contas e apresentar a ele um
 
 Para o desenvolvimento do Projeto, o LabView será usado por conta de sua facilidade em apresentação e introdução de entradas, para que o Cliente sinta-se mais confortável em usar o programa.
 
+![front panelfinal](https://user-images.githubusercontent.com/48965603/60473759-1de90e00-9c45-11e9-9ce7-ba6db3a9a0de.png)
+Front Panel 
 
-![front panel projeto vf](https://user-images.githubusercontent.com/48965603/59398407-92c3d900-8d66-11e9-8a5a-5458620f1acd.png)
-Front Panel inicial (PODE SER ALTERADO)
+![fluxograma](https://user-images.githubusercontent.com/48965603/60473709-c8146600-9c44-11e9-9001-1e22d2c42cdc.png)
+Fluxograma
